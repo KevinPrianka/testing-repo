@@ -8,5 +8,4 @@
 :star_struck: Subhan Nooriansyah
 
 ## Students
-- Agus Stiawan
-- Kevin Prianka Ramadhani
+:trollface: Kevin Prianka Ramadhani
